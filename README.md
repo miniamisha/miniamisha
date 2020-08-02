@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding my passion in particularly one tech domain.
 - ⚡ Fun fact: I have started getting coding question's logic while sleeping.
 
-![](https://komarev.com/ghpvc/?username=https://github.com/miniamisha)
+![](https://komarev.com/ghpvc/?username=miniamisha)
