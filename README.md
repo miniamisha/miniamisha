@@ -3,9 +3,9 @@
 --
 **miniamisha** is Automation Engineer at Ericsson India.
 
-- 🌱 I’m currently learning hybrid Cloud
+- 🌱 I’m currently learning advance analysis
 - 👯 I’m looking to collaborate on NLP, cloud stuff.
-- 🤔 I’m looking for help with finding my passion in particularly one tech domain.
+- 🤔 I’m learning to be happy, code and repeat.
 - ⚡ Fun fact: I have started getting coding question's logic while sleeping.
 
 <img src="https://komarev.com/ghpvc/?username=amisha" alt="miniamisha" />
