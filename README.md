@@ -3,10 +3,10 @@
 --
 **miniamisha** is Automation Engineer at Ericsson India.
 
-- 🌱 I’m currently learning advance analysis
-- 👯 I’m looking to collaborate on NLP, cloud stuff.
+- 🌱 I’m currently learning Data Engineering using pyspark.
+- 👯 I’m looking to collaborate on research work related to MUSIC and tech.
 - 🤔 I’m learning to be happy, code and repeat.
-- ⚡ Fun fact: I have started getting coding question's logic while sleeping.
+- ⚡ Fun fact: I am always happy.
 
 - 📫 Reach out to me at
 <p align="center">
