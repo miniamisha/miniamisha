@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 --
-**miniamisha** is Automation Engineer at Ericsson India.
+
 
 - 🌱 I’m currently learning Data Engineering using pyspark.
 - 👯 I’m looking to collaborate on research work related to MUSIC and tech.
